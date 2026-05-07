@@ -6,7 +6,7 @@ Repository ini berisi project UTS Big Data dengan tema **Smart Energy Consumptio
 ## 📝 Laporan UTS
 
 🔗 File:  
-👉 [laporan.pdf](https://github.com/user-attachments/files/27463881/230104040206_Syfa.Aulia_Laporan.UTS.Big.Data.pdf)
+👉 [laporan_UTS.pdf](https://github.com/user-attachments/files/27463881/230104040206_Syfa.Aulia_Laporan.UTS.Big.Data.pdf)
 
 
 ---
